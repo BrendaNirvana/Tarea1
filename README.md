@@ -5,6 +5,6 @@ $$
 ax^{2}+bx+c=0
 $$
 
-#Título
-**negritas**
+#Título\\
+**negritas**\\
 *cursiva*
