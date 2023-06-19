@@ -1,2 +1,3 @@
-# Tarea 1
-Tarea 1 del curso python-SQL
+# Prueba de carpeta 
+Apuntes de la primera clase de Python-SQL
+
